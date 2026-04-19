@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Nitish%20Ojha&fontSize=55&fontColor=58a6ff&fontAlignY=55&desc=Backend%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20B.Tech%20CSE&descSize=16&descFontColor=8b949e&animation=fadeIn" width="100%"/>
 
+
 <br/>
 
 <a href="https://www.nitishojha.in"><img src="https://img.shields.io/badge/🌐%20Portfolio-nitishojha.in-58a6ff?style=for-the-badge&labelColor=0d1117&color=0d1117&logoColor=58a6ff"/></a>
