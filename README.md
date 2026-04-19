@@ -1,24 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Nitish%20Ojha&fontSize=55&fontColor=58a6ff&fontAlignY=55&desc=Backend%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20B.Tech%20CSE&descSize=16&descFontColor=8b949e&animation=fadeIn" width="100%"/>
-
+<!-- HEADER BANNER — text only, no image overlap -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=120&section=header" width="100%"/>
 
 <br/>
 
-<a href="https://www.nitishojha.in"><img src="https://img.shields.io/badge/🌐%20Portfolio-nitishojha.in-58a6ff?style=for-the-badge&labelColor=0d1117&color=0d1117&logoColor=58a6ff"/></a>
-<a href="https://linkedin.com/in/nitishojha00"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://x.com/nitishojha00"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-white?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117&color=0d1117"/></a>
-<a href="mailto:nitishojha00@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<h1 style="font-size:3rem;">👨‍💻 Nitish Ojha</h1>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58a6ff&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+B.Tech+CSE+%40+AITD;Competitive+Programmer+%7C+1000%2B+Problems+Solved;Building+Scalable+Systems+with+Redis+%26+BullMQ;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+</p>
+
+<br/>
+
+<!-- Social Links -->
+<a href="https://www.nitishojha.in"><img src="https://img.shields.io/badge/🌐_Portfolio-nitishojha.in-58a6ff?style=for-the-badge&labelColor=0d1117"/></a>&nbsp;
+<a href="https://linkedin.com/in/nitishojha00"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>&nbsp;
+<a href="https://x.com/nitishojha00"><img src="https://img.shields.io/badge/X_Twitter-Follow-white?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117&color=0d1117"/></a>&nbsp;
+<a href="mailto:nitishojha00@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/__Nitish___Ojha"><img src="https://img.shields.io/badge/LeetCode-1800%2B%20%7C%20Top%208%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/></a>
-<a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-Global%20Rank%20395-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB"/></a>
+<!-- CP Ratings -->
+<a href="https://leetcode.com/u/__Nitish___Ojha"><img src="https://img.shields.io/badge/LeetCode-1800%2B_·_Top_8%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/></a>&nbsp;
+<a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-Global_Rank_395-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB"/></a>&nbsp;
 <a href="https://www.codechef.com/users/nitish_ojha"><img src="https://img.shields.io/badge/CodeChef-1500%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638"/></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=const+nitish+%3D+new+BackendEngineer();+%2F%2F+v3rd_year;Solved+1000%2B+problems+across+platforms+%F0%9F%9A%80;Building+scalable+systems+with+Redis+%26+BullMQ;Open+to+internships+%26+collaborations+%F0%9F%A4%9D;Curious+mind%2C+curious+code." alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=Nitishojha00&label=Profile+Views&color=58a6ff&style=for-the-badge"/>
 
 </div>
 
@@ -32,7 +42,7 @@ const nitish: Developer = {
   handle:    "@Nitishojha00",
   location:  "Kanpur, Uttar Pradesh, India 🇮🇳",
   college:   "Dr. Ambedkar Institute of Technology for Divyangjan",
-  degree:    "B.Tech CSE  ·  2023 – 2027  ·  CGPA: 7.2",
+  degree:    "B.Tech CSE  ·  2023–2027  ·  CGPA: 7.2",
   focus:     ["Backend Engineering", "Full-Stack Dev", "Competitive Programming"],
   currently: "Mastering DSA + building scalable backend systems",
   openTo:    ["Internships 💼", "Collaborations 🤝", "Open Source 🌍"],
@@ -50,7 +60,7 @@ const nitish: Developer = {
 | 🏆 Platform | 📊 Rating / Rank | 🎯 Highlight |
 |:---:|:---:|:---:|
 | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square) | **1800+** Rating | **Top 8%** globally · 50+ contests |
-| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat-square) | Global **Rank 395** | Led **Team_Crushers** · Midnight Code Cup 2026 |
+| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat-square) | Global **Rank 395** | Led **Team\_Crushers** · Midnight Code Cup 2026 |
 | ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white&style=flat-square) | **1500+** Rating | Consistent performer |
 | ![All Platforms](https://img.shields.io/badge/-All%20Platforms-3fb950?style=flat-square) | **1000+ Problems** | LeetCode · CF · CSES · GFG |
 
@@ -187,7 +197,7 @@ A fault-tolerant, horizontally scalable MERN chat app with WebSocket support and
 | 🎖️ Achievement | 📋 Details |
 |---|---|
 | 🥇 **LeetCode 1800+ · Top 8%** | 50+ contests · 1000+ problems across all platforms |
-| 🌍 **Codeforces Global Rank 395** | Led **Team_Crushers** · Top 400 in Midnight Code Cup 2026 |
+| 🌍 **Codeforces Global Rank 395** | Led **Team\_Crushers** · Top 400 in Midnight Code Cup 2026 |
 | 🚀 **Top 50 — Epiphany 14.0** | National hackathon · ACM NIT Surat |
 | 🤝 **ECWoC Contributor** | Open source among 5000+ participants |
 
@@ -199,13 +209,13 @@ A fault-tolerant, horizontally scalable MERN chat app with WebSocket support and
 
 <a href="https://linkedin.com/in/nitishojha00/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Nitish%20Ojha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a>&nbsp;
 <a href="https://x.com/nitishojha00/" target="_blank">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-%40nitishojha00-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/X_Twitter-%40nitishojha00-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>&nbsp;
 <a href="mailto:nitishojha00@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-nitishojha00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a>&nbsp;
 <a href="https://www.nitishojha.in" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-nitishojha.in-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -213,15 +223,11 @@ A fault-tolerant, horizontally scalable MERN chat app with WebSocket support and
 <br/><br/>
 
 <a href="https://www.buymeacoffee.com/nitishojha6" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nitishojha00&label=Profile+Views&color=58a6ff&style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:58a6ff&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:58a6ff&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
