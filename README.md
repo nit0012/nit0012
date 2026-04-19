@@ -1,19 +1,13 @@
 <div align="center">
 
-<!-- HEADER BANNER — text only, no image overlap -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=130&section=header" width="100%"/>
+
+<h1>👨‍💻 Nitish Ojha</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&multiline=false&width=620&height=40&lines=Backend+Engineer+%7C+B.Tech+CSE+%40+AITD;Competitive+Programmer+%7C+1000%2B+Problems+Solved+%F0%9F%9A%80;Building+Scalable+Systems+with+Redis+%26+BullMQ;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D;Curious+mind%2C+curious+code+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<h1 style="font-size:3rem;">👨‍💻 Nitish Ojha</h1>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58a6ff&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+B.Tech+CSE+%40+AITD;Competitive+Programmer+%7C+1000%2B+Problems+Solved;Building+Scalable+Systems+with+Redis+%26+BullMQ;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-</p>
-
-<br/>
-
-<!-- Social Links -->
 <a href="https://www.nitishojha.in"><img src="https://img.shields.io/badge/🌐_Portfolio-nitishojha.in-58a6ff?style=for-the-badge&labelColor=0d1117"/></a>&nbsp;
 <a href="https://linkedin.com/in/nitishojha00"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>&nbsp;
 <a href="https://x.com/nitishojha00"><img src="https://img.shields.io/badge/X_Twitter-Follow-white?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117&color=0d1117"/></a>&nbsp;
@@ -21,12 +15,11 @@
 
 <br/><br/>
 
-<!-- CP Ratings -->
-<a href="https://leetcode.com/u/__Nitish___Ojha"><img src="https://img.shields.io/badge/LeetCode-1800%2B_·_Top_8%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/></a>&nbsp;
+<a href="https://leetcode.com/u/__Nitish___Ojha"><img src="https://img.shields.io/badge/LeetCode-1800%2B_%7C_Top_8%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/></a>&nbsp;
 <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-Global_Rank_395-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB"/></a>&nbsp;
 <a href="https://www.codechef.com/users/nitish_ojha"><img src="https://img.shields.io/badge/CodeChef-1500%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638"/></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Nitishojha00&label=Profile+Views&color=58a6ff&style=for-the-badge"/>
 
@@ -171,14 +164,15 @@ A fault-tolerant, horizontally scalable MERN chat app with WebSocket support and
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nitishojha00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" height="165"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nitishojha00&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nitishojha00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=1800" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishojha00&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" height="165"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Nitishojha00&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nitishojha00&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="55%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitishojha00&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&hide_border=true" width="100%"/>
 
@@ -186,13 +180,15 @@ A fault-tolerant, horizontally scalable MERN chat app with WebSocket support and
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Achievements
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Nitishojha00&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
+
+<br/>
 
 | 🎖️ Achievement | 📋 Details |
 |---|---|
